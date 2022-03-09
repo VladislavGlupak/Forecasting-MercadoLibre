@@ -35,7 +35,9 @@ This project leverages the following tools for financial analysis:
 ## Input data
 
 `/Resources/google_hourly_search_trends.csv` - traffic info
+
 `/Resources/mercado_daily_revenue.csv` - Mercado daily revenue
+
 `/Resources/mercado_stock_price.csv` - Mercado stock price
 
 ---
